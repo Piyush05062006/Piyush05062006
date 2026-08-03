@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech AIML student at Manipal University Jaipur (9+ CGPA) | Incoming 3rd Year<br><br>💻 Passionate about Artificial Intelligence, Machine Learning, and Software Development.<br><br>🚀 Currently focused on building impactful projects, improving my DSA skills, and exploring new technologies. I enjoy turning ideas into practical solutions through continuous learning and hands-on development.<br><br>📈 Learning, building, and growing every day.<br>
+🎓 B.Tech AIML student at Manipal University Jaipur (9+ CGPA) | 3rd Year<br><br>💻 Passionate about Artificial Intelligence, Machine Learning, and Software Development.<br><br>🚀 Currently focused on building impactful projects, improving my DSA skills, and exploring new technologies. I enjoy turning ideas into practical solutions through continuous learning and hands-on development.<br><br>📈 Learning, building, and growing every day.<br>
 
 
 ## 🌐 Socials:
