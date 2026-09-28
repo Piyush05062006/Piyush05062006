@@ -86,12 +86,12 @@ class Piyush:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyush05062006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush05062006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Piyush05062006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Piyush05062006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Piyush05062006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush05062006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies" />
 
 </div>
 
